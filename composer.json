@@ -1,0 +1,21 @@
+{
+    "name": "flip-master-hack/flip-master-hack-mod-apk-get-unlimited-gold",
+    "description": "Flip Master Hack Mod APK Get Unlimited Gold Cheats Generator IOS & Android",
+
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ClICK HERE to HACK Flip Master",
+            "homepage": "http://flip-master.astuces.cf/en.html",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "movies123\\": "src/"
+        }
+    },
+   
+    "minimum-stability": "dev"
+}
